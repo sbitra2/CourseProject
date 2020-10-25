@@ -1,5 +1,6 @@
 # Text Classification Competition: Twitter Sarcasm Detection 
 
+
 Dataset format:
 
 Each line contains a JSON object with the following fields : 
